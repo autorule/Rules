@@ -1,0 +1,18 @@
+# NAME: Claude
+# UPDATED: 2026-03-12 18:04:40
+# TOTAL: 13
+
+payload:
+  - DOMAIN,anthropic.com
+  - DOMAIN,apple-relay.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,augmentcode.com
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN,claude.ai
+  - DOMAIN,claude.com
+  - DOMAIN,cursor-cdn.com
+  - DOMAIN,cursor.com
+  - DOMAIN,cursor.sh
+  - DOMAIN,cursorapi.com
+  - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,workos.com
