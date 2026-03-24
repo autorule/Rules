@@ -3,8 +3,6 @@
 # TOTAL: 13
 
 DOMAIN,anthropic.com
-DOMAIN,apple-relay.apple.com
-DOMAIN,apple-relay.cloudflare.com
 DOMAIN,augmentcode.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,claude.ai
@@ -15,3 +13,11 @@ DOMAIN,cursor.sh
 DOMAIN,cursorapi.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,workos.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,cp4.cloudflare.com
